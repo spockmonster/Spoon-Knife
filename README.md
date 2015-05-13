@@ -1,4 +1,5 @@
 ### Well hello there!
+Git Windows client won't let me sync to my own repository.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
